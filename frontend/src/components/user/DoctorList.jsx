@@ -1,4 +1,4 @@
-
+import './DoctorList.css';
 import { message } from 'antd';
 import axios from 'axios';
 import React, { useState } from 'react'

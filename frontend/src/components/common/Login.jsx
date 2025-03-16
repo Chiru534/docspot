@@ -4,7 +4,7 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import { message } from 'antd';
 import { Button, Form } from 'react-bootstrap';
-import photo1 from '../../images/photo1.png';
+import photo1 from '../../images/projectimg2.png';
 import axios from 'axios';
 import { Link, useNavigate } from 'react-router-dom';
 import {
